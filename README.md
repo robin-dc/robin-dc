@@ -5,6 +5,7 @@ I'm Robin from Philippines, I like building stuffs and trying out new things. I 
 
 ### Skills and Experience
 - 🐍 Python
+- ☕ Java
 - 🐧 MySql
 - 📱 Vb.net
 - 💻 HTML, CSS, JavaScript
