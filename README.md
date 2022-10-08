@@ -1,6 +1,6 @@
 ![Software Developer](https://github.com/robin-dc/robin-dc/blob/main/robindc.png)
 
-## Hi there 💻
+## Hi There! 💻
 I'm Robin from Philippines, I like building stuffs and trying out new things. The stacks i used nowadays are HTML, CSS and JAVASCRIPT. In addition, I have background knowledge in PYTHON, MYSQL, VB.NET and JAVA. I also enjoy designing a website, you can send me an email at robindelacruz725@gmail.com.
 
 ### Skills and Experience
