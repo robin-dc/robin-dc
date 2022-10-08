@@ -1,14 +1,11 @@
 ![Software Developer](https://github.com/robin-dc/robin-dc/blob/main/robindc.png)
 
 ## Hi there 👋
-I'm Robin from Philippines, I like building stuffs and trying out new things. I started learning Web Development in March 2022. The stacks i used for now are HTML, CSS and JAVASCRIPT. In addition, I have background knowledge in PYTHON, MYSQL, VB.NET and JAVA. I'd liked to learn more from web development like BOOTSTRAP and REACT JS. I also enjoy designing a website, you can send me an email at robindelacruz725@gmail.com.
+I'm Robin from Philippines, I like building stuffs and trying out new things. The stacks i used nowadays are HTML, CSS and JAVASCRIPT. In addition, I have background knowledge in PYTHON, MYSQL, VB.NET and JAVA. I also enjoy designing a website, you can send me an email at robindelacruz725@gmail.com.
 
 ### Skills and Experience
-- 🐍 Python
-- ☕ Java
-- 🐧 MySql
-- 📱 Vb.net
-- 💻 HTML, CSS, JavaScript
+Web App: HTML, CSS and JavaScript
+Programming: Python, Java, C++, VB .net, phpMyadmin
 
 ### Example of Works
 <img src='https://github.com/robin-dc/robin-dc/blob/main/coffeeshop.png' alt='loopstudios' height='300'>                         <img src='https://github.com/robin-dc/robin-dc/blob/main/loopstudios.png' alt='loopstudios' height='300'>
