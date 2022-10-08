@@ -1,4 +1,4 @@
-![Software Developer](https://github.com/robin-dc/robin-dc/blob/main/banner_github.png)
+![Software Developer](https://github.com/robin-dc/robin-dc/blob/main/robindc.png)
 
 ## Hi there 👋
 I'm Robin from Philippines, I like building stuffs and trying out new things. I started learning Web Development in March 2022. The stacks i used for now are HTML, CSS and JAVASCRIPT. In addition, I have background knowledge in PYTHON, MYSQL, VB.NET and JAVA. I'd liked to learn more from web development like BOOTSTRAP and REACT JS. I also enjoy designing a website, you can send me an email at robindelacruz725@gmail.com.
