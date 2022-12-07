@@ -10,7 +10,7 @@ I'm Robin from Philippines, I like building stuffs and trying out new things. Th
 
 
 ### Skills and Experience : 🛠
-• 🎴 Designed and built websites in collaboration with other developers and graphic designers.
+• 🎴 Designed and built websites in collaboration with other developers and graphic designers.<br />
 • 🔎 Quality Assurance and maintain UX design for 30+ websites.
 
 
@@ -21,6 +21,7 @@ I'm Robin from Philippines, I like building stuffs and trying out new things. Th
 ### Statistics 🛠
 <a href="https://www.linkedin.com/in/robin-dela-cruz-12247023b/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin-dc&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robin-dc)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/{robin-dc}/count.svg)
