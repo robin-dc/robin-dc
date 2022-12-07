@@ -23,5 +23,7 @@ I'm Robin from Philippines, I like building stuffs and trying out new things. Th
 <br />
 <br />
 <br />
+  <center>
+  ![Visitor Count](https://profile-counter.glitch.me/{robin-dc}/count.svg)
+  </center>
 
-![Visitor Count](https://profile-counter.glitch.me/{robin-dc}/count.svg)
