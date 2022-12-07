@@ -22,6 +22,5 @@ I'm Robin from Philippines, I like building stuffs and trying out new things. Th
 <a href="https://www.linkedin.com/in/robin-dela-cruz-12247023b/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin-dc&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robin-dc)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/{robin-dc}/count.svg)
