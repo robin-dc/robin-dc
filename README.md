@@ -9,8 +9,8 @@ I'm Robin from Philippines, I like building stuffs and trying out new things. Th
 
 
 ### Skills and Experience : 
-• 🎴 Designed and built websites in collaboration with other developers and graphic designers.<br />
-• 🔎 Quality Assurance and maintain UX design for 30+ websites.
+• 🌻 Designed and built websites in collaboration with other developers and graphic designers.<br />
+• 💼 Quality Assurance and maintain UX design for 30+ websites.
 
 
 ### Example of Works :
@@ -23,7 +23,6 @@ I'm Robin from Philippines, I like building stuffs and trying out new things. Th
 <br />
 <br />
 <br />
-  <center>
-  ![Visitor Count](https://profile-counter.glitch.me/{robin-dc}/count.svg)
-  </center>
+  
+![Visitor Count](https://profile-counter.glitch.me/{robin-dc}/count.svg)
 
