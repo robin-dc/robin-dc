@@ -5,7 +5,7 @@ I'm Robin from Philippines, I like building stuffs and trying out new things. Th
 
 ### Tools frequently used : 🛠
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/-material%20ui-ee6e73.svg?style=for-the-badge&logo=mui&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/-material%20ui-ee6e73.svg?style=for-the-badge&logo=mui&logoColor=white"> <img src="http://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
 
 
 ### Skills and Experience : 🛠
@@ -14,12 +14,14 @@ I'm Robin from Philippines, I like building stuffs and trying out new things. Th
 
 
 ### Example of Works : 🛠
-<img src='https://github.com/robin-dc/robin-dc/blob/main/coffeeshop.png' alt='loopstudios' height='300'>                         <img src='https://github.com/robin-dc/robin-dc/blob/main/loopstudios.png' alt='loopstudios' height='300'>
+<img src='https://github.com/robin-dc/robin-dc/blob/main/ryokou%20mockup.png' alt='loopstudios' height='300'>                         <img src='https://github.com/robin-dc/robin-dc/blob/main/fb-clone%20mockup.png' alt='loopstudios' height='300'>
 </a>
 
 ### Statistics 🛠
 <a href="https://www.linkedin.com/in/robin-dela-cruz-12247023b/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin-dc&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+<br />
+<br />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/{robin-dc}/count.svg)
