@@ -14,7 +14,7 @@ I'm Robin from Philippines, I like building stuffs and trying out new things. Th
 
 
 ### Example of Works :
-<img src='https://github.com/robin-dc/robin-dc/blob/main/ryokou%20mockup.png' alt='loopstudios' height='300'>                         <img src='https://github.com/robin-dc/robin-dc/blob/main/fb-clone%20mockup.png' alt='loopstudios' height='300'>
+<img src='https://github.com/robin-dc/robin-dc/blob/main/mockup-ryokou.png' alt='loopstudios' height='300'>                         <img src='https://github.com/robin-dc/robin-dc/blob/main/mockup-fb.png' alt='loopstudios' height='300'>
 </a>
 
 ### Statistics and Visitors :
