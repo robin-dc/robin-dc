@@ -5,7 +5,7 @@ I'm Robin from Philippines, I like building stuffs and trying out new things. Th
 
 ### Tools frequently used :
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/-material%20ui-ee6e73.svg?style=for-the-badge&logo=mui&logoColor=white"> <img src="http://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/-material%20ui-ee6e73.svg?style=for-the-badge&logo=mui&logoColor=white"> <img src="http://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"><img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 
 ### Skills and Experience : 
