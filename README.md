@@ -14,12 +14,14 @@ I'm Robin from Philippines, I like building stuffs and trying out new things. Th
 
 
 ### Example of Works :
-<img src='https://github.com/robin-dc/robin-dc/blob/main/mockup-ryokou.png' alt='loopstudios' height='300'>                         <img src='https://github.com/robin-dc/robin-dc/blob/main/mockup-fb.png' alt='loopstudios' height='300'>
-</a>
+<div align="center">
+<a href="https://facebook-darkmode-clone.netlify.app"><img src='https://github.com/robin-dc/robin-dc/blob/main/fb-mockup.png' alt='loopstudios' height='300'></a>       <a href="https://ryokou-travel-agency.netlify.app"><img src='https://github.com/robin-dc/robin-dc/blob/main/ryokou-mockup.png' alt='loopstudios' height='300'></a>
+</div>
 
 ### Statistics and Visitors :
+<div align="center">
 <a href="https://www.linkedin.com/in/robin-dela-cruz-12247023b/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin-dc&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin-dc&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" /></div>
 <br />
 <br />
 <br />
