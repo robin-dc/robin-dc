@@ -15,7 +15,7 @@ I'm Robin from Philippines, I like building stuffs and trying out new things. Th
 
 ### Example of Works :
 
-<a href="https://facebook-darkmode-clone.netlify.app"><img src='https://github.com/robin-dc/robin-dc/blob/main/fb-mockup.png' height='300' width:'350'></a>       <a href="https://ryokou-travel-agency.netlify.app"><img src='https://github.com/robin-dc/robin-dc/blob/main/ryokou-mockup.png' height='300' width:'350'></a>
+<a href="https://facebook-darkmode-clone.netlify.app"><img src='https://github.com/robin-dc/robin-dc/blob/main/fb-mockup.png' height='300' width='350'></a>       <a href="https://ryokou-travel-agency.netlify.app"><img src='https://github.com/robin-dc/robin-dc/blob/main/ryokou-mockup.png' height='300' width='350'></a>
 
 
 ### Statistics and Visitors :
