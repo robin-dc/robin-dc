@@ -1,11 +1,11 @@
 ![Software Developer](https://github.com/robin-dc/robin-dc/blob/main/robindc.png)
 
 ## Hi There! 💻
-I'm Robin from Philippines, I like building stuffs and trying out new things. The stacks i used nowadays are HTML, CSS (Material UI) and JAVASCRIPT. In addition, I have knowledge in PYTHON, C++, JAVA, MYSQL, VB.NET and phpMyadmin. I also enjoy designing a website, you can send me an email at robindelacruz725@gmail.com.
+I'm Robin from Philippines, I like building stuffs and trying out new things. The stacks i used nowadays are HTML, CSS and JAVASCRIPT. In addition, I have knowledge in PYTHON, C++, JAVA, MYSQL, VB.NET and phpMyadmin. I also enjoy designing a website, you can send me an email at robindelacruz725@gmail.com.
 
 ### Tools frequently used :
 <div align="center">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="http://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"><img src="https://img.shields.io/badge/git%20-241a00.svg?&style=for-the-badge&logo=git&logoColor=#E34F26"/> <img src="https://img.shields.io/badge/-materialize%20-ec6d71.svg?style=for-the-badge&logo=mui&logoColor=ffffff"> <img src="http://img.shields.io/badge/-Adobe%20XD-2a0134?style=for-the-badge&logo=Adobe-xd&logoColor=#FF61F6"></div>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="http://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"><img src="https://img.shields.io/badge/git%20-3d2d00.svg?&style=for-the-badge&logo=git&logoColor=#E34F26"/> <img src="https://img.shields.io/badge/-materialize%20-ec6d71.svg?style=for-the-badge&logo=mui&logoColor=ffffff"> <img src="http://img.shields.io/badge/-Adobe%20XD-2a0134?style=for-the-badge&logo=Adobe-xd&logoColor=#FF61F6"></div>
 
 
 ### Skills and Experience : 
