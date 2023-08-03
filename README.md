@@ -1,21 +1,18 @@
-![Software Developer](https://github.com/robin-dc/robin-dc/blob/main/robindc.png)
+![Software Developer](https://github.com/robin-dc/robin-dc/blob/main/robindc.gif)
 
 ## Hi There! 💻
-I'm Robin from Philippines, I like building stuffs and trying out new things. The stacks i used nowadays are HTML, CSS and JAVASCRIPT. In addition, I have knowledge in PYTHON, C++, JAVA, MYSQL, VB.NET and phpMyadmin. I also enjoy designing a website, you can send me an email at robindelacruz725@gmail.com.
+I like building stuffs and trying out new things. I also enjoy designing a website, you can send me an email at robindelacruz725@gmail.com.
 
 ### Tools frequently used :
 <div align="center">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="http://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">  <img src="https://img.shields.io/badge/git%20-3d2d00.svg?&style=for-the-badge&logo=git&logoColor=#E34F26"/> <img src="https://img.shields.io/badge/-materialize%20-ec6d71.svg?style=for-the-badge&logo=mui&logoColor=ffffff"> <img src="http://img.shields.io/badge/-Adobe%20XD-2a0134?style=for-the-badge&logo=Adobe-xd&logoColor=#FF61F6"></div>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="http://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">  <img src="https://img.shields.io/badge/git%20-3d2d00.svg?&style=for-the-badge&logo=git&logoColor=#E34F26"/> <img src="https://img.shields.io/badge/-materialize%20-ec6d71.svg?style=for-the-badge&logo=mui&logoColor=ffffff"> <img src="http://img.shields.io/badge/-Adobe%20XD-2a0134?style=for-the-badge&logo=Adobe-xd&logoColor=#FF61F6">  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img src="https://img.shields.io/badge/-tailwind-0375A1?.svg?&style=for-the-badge&logo=tailwind css&logoColor=0f172a"/>  <img src="https://img.shields.io/badge/-redux-6528e0?.svg?&style=for-the-badge&logo=redux&logoColor=0f172a"/>  <img src="https://img.shields.io/badge/-mocha chai-8d6748?.svg?&style=for-the-badge&logo=mocha&logoColor=0f172a"/>  <img src="https://img.shields.io/badge/-npm-990000?.svg?&style=for-the-badge&logo=mocha&logoColor=0f172a"/>  <img src="https://img.shields.io/badge/-postman-ff6c37?.svg?&style=for-the-badge&logo=mocha&logoColor=0f172a"/>
+
+</div>
 
 
 ### Skills and Experience : 
 • 🌻 Designed and built websites in collaboration with other developers and graphic designers.<br />
 • 💼 Quality Assurance and maintain UX design for 30+ websites.
-
-
-### Example of Works :
-
-<a href="https://facebook-darkmode-clone.netlify.app" target="_blank"><img src='https://github.com/robin-dc/robin-dc/blob/main/fb-mockup.png' height='300' width='420'></a>       <a href="https://ryokou-travel-agency.netlify.app" target="_blank"><img src='https://github.com/robin-dc/robin-dc/blob/main/ryokou-mockup.png' height='300' width='420'></a>
 
 
 ### Statistics and Visitors :
