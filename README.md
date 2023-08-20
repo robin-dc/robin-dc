@@ -1,4 +1,4 @@
-![Software Developer](https://github.com/robin-dc/robin-dc/blob/main/robindc.gif)
+[![@robindc](https://github.com/robin-dc/robin-dc/blob/main/robindc.gif)](https://robindc.vercel.app)
 
 ## Hi There! 💻
 I'm all about bringing ideas to life through hands-on creation. From crafting captivating websites to diving into exciting DIY projects, I'm driven by the thrill of turning imagination into reality. 
