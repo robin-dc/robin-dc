@@ -28,8 +28,8 @@ Let's connect and share our love for building and designing! Reach me at robinde
 
 ### Skills and Experience : 
 • 🌻 Collaborated with a team of developers on Git and GitHub, working with their technology stacks, including MongoDB, Express JS, Node JS, TypeScript, Material UI, React, and more.<br />
-• 💼 Quality Assurance and maintain UX design for 30+ websites.
-•	⭐ Developed features and fixed bugs for an AI-Powered Business Software and Website Builder Solution.
+• 💼 Quality Assurance and maintain UX design for 30+ websites.<br />
+• ⭐ Developed features and fixed bugs for an AI-Powered Business Software and Website Builder Solution.
 
 
 ### Statistics and Visitors :
