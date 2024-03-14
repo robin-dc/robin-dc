@@ -7,7 +7,6 @@ Let's connect and share our love for building and designing! Reach me at robinde
 
 ### Tools frequently used :
 <div align="center">
-    <img src="https://img.shields.io/badge/firebase-FFA712.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img src="https://img.shields.io/badge/-Material UI-0057b7.svg?style=for-the-badge&logo=mui&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,6 +16,7 @@ Let's connect and share our love for building and designing! Reach me at robinde
     <img src="https://img.shields.io/badge/-materialize%20-ec6d71.svg?style=for-the-badge&logo=materialize&logoColor=ffffff" />
     <img src="http://img.shields.io/badge/-Adobe%20XD-2a0134?style=for-the-badge&logo=Adobe-xd&logoColor=#FF61F6" />
     <img src="https://img.shields.io/badge/-mocha chai-8d6738?.svg?&style=for-the-badge&logo=mocha&logoColor=white" />
+    <img src="https://img.shields.io/badge/firebase-FFA712.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
     <img src="https://img.shields.io/badge/-postman-ff6c37?.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/-npm-990000?.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
     <img src="http://img.shields.io/badge/-Figma-233260?style=for-the-badge&logo=Figma&logoColor=white"/>
